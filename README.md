@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Netzaker Digital Marketing Expert learning  coding and Cyber Security. 
+- 👋 Hi, I'm @Netzaker expert in Digital Marketing and Ecommerce.
 - 👀 I'm interested in CyberSecurity, Digital Intelligence and Full Stack Development.
 - 📖 New business and entrepreneurship mentor
 - 🌱 I’m currently learning JS and Backend

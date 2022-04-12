@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Netzaker Digital Marketing Expert learning  coding and Cyber Security. 
 - 👀 I'm interested in CyberSecurity, Digital Intelligence and Full Stack Development.
+- 📖 New business and entrepreneurship mentor
 - 🌱 I’m currently learning JS and Backend
 - 💞️ I’m looking to collaborate on any Cybersecurity project
 - 📫 Let´s talk: francisco@laurachile.com
